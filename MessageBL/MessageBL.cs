@@ -16,7 +16,8 @@ namespace HelloWorld
 
         public string GetMessage()
         {
-            return message;
+            MessageDL messageDL = new MessageDL();
+            return messageDL.LoadMessage();
         }
     }
 }

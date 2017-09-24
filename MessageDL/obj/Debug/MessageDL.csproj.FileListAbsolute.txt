@@ -1,0 +1,5 @@
+C:\Code\MVC\HelloWorld\MessageDL\bin\Debug\MessageDL.dll
+C:\Code\MVC\HelloWorld\MessageDL\bin\Debug\MessageDL.pdb
+C:\Code\MVC\HelloWorld\MessageDL\obj\Debug\MessageDL.csproj.CoreCompileInputs.cache
+C:\Code\MVC\HelloWorld\MessageDL\obj\Debug\MessageDL.dll
+C:\Code\MVC\HelloWorld\MessageDL\obj\Debug\MessageDL.pdb

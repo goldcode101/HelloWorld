@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HelloWorld;
 
 namespace HelloWorld
 {
@@ -17,6 +16,7 @@ namespace HelloWorld
             
             //print message to console.
             Console.WriteLine(message);
+            Console.ReadLine();
         }
     }
 }
