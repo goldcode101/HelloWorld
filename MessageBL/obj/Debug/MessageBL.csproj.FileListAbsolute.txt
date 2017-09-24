@@ -1,0 +1,6 @@
+C:\Code\MVC\HelloWorld\MessageBL\bin\Debug\MessageBL.dll
+C:\Code\MVC\HelloWorld\MessageBL\bin\Debug\MessageBL.pdb
+C:\Code\MVC\HelloWorld\MessageBL\obj\Debug\MessageBL.csprojResolveAssemblyReference.cache
+C:\Code\MVC\HelloWorld\MessageBL\obj\Debug\MessageBL.csproj.CoreCompileInputs.cache
+C:\Code\MVC\HelloWorld\MessageBL\obj\Debug\MessageBL.dll
+C:\Code\MVC\HelloWorld\MessageBL\obj\Debug\MessageBL.pdb
