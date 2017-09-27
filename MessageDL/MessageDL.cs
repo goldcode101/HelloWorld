@@ -9,14 +9,16 @@ namespace HelloWorld
 {
     public class MessageDL
     {
-        private string message = "";
-        public string LoadMessage()
+        private string[] message;
+
+        public string[] LoadMessage()
         {
             //get the message from a file.
-            string message = File.ReadAllText("../../../MessageFile.txt", Encoding.UTF8);
-
+            message = File.ReadAllLines("../../../MessageFile.txt", Encoding.UTF8);
 
             return message;
         }
+
+
     }
 }
